@@ -2,6 +2,7 @@ node_modules
 .env
 README.me
 gas-reporter.txt
+text.txt
 coverage
 coverage.json
 typechain
@@ -10,4 +11,5 @@ typechain-types
 # Hardhat files
 cache
 artifacts
+
 
